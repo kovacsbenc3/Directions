@@ -1,0 +1,34 @@
+main{
+    border: 6px solid #4285f4;
+    text-align: center; 
+    color: white;
+    width: 200px;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 24px;
+  }
+  .n{
+    background: #E67676;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 20px;
+   
+    }
+  .e{
+    background: #F2F062;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .s{
+    background: #A9E6E6;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .w{
+    background: #7692E4;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    }
